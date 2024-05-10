@@ -8,3 +8,5 @@ const circle = {
     console.log('Draw');
   },
 };
+
+circle.draw();
